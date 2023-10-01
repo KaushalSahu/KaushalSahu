@@ -2,4 +2,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:kaushal.raj.sahu@gmail.com)](mailto:kaushal.raj.sahu@gmail.com)
 ---
 ### Hi there 👋,           
-I'm Kaushal Sahu, Student at 👨‍💻 at Indian Institute of Information Technology, Allahabad pursuing M.Tech(IT).
+I'm Kaushal Sahu, Senior Engineer 👨‍💻 at Nagarro having more than 3.5 years of experience in Full Stack Web Developement.
