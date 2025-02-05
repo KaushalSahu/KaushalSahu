@@ -2,4 +2,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:kaushal.raj.sahu@gmail.com)](mailto:kaushal.raj.sahu@gmail.com)
 ---
 ### Hi there 👋,           
-I'm Kaushal Sahu, Staff Engineer 👨‍💻 at Nagarro having more than 4.5 years of experience in Full Stack Web Developement.
+I'm Kaushal Sahu, Staff Engineer 👨‍💻 at Nagarro having more than 5 years of experience in Full Stack Web Developement.
