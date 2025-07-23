@@ -53,13 +53,15 @@ const kaushal = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalsahu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </div>
 
+## 🔥 GitHub Streak Stats
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalsahu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaushalsahu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=kaushalsahu&rank=-UNKNOWN,-C&margin-w=4" alt="GitHub Trophies">
 </div>
 
 ## 💼 Professional Journey
